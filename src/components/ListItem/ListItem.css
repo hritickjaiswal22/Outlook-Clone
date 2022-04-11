@@ -1,0 +1,16 @@
+.listItem {
+  width: 90%;
+  padding: 1rem;
+  margin: 1rem auto;
+  background-color: #fff;
+  border: 1px solid #cfd2dc;
+  border-radius: 0.5rem;
+}
+
+.readListItem {
+  background-color: #f2f2f2;
+}
+
+.selected {
+  border-color: #e54065;
+}

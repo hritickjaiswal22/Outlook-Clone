@@ -1,0 +1,14 @@
+.wrapper {
+  padding: 1rem;
+}
+
+.buttonContainer > button {
+  padding: 0.5rem;
+  border-radius: 1rem;
+  border: none;
+  outline: none;
+  background-color: #e54065;
+  color: #fff;
+  cursor: pointer;
+  margin-left: 1rem;
+}

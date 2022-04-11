@@ -1,0 +1,33 @@
+.masterSlave {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.listPart {
+  width: 25%;
+}
+
+.emailBodyWrapper {
+  width: 65%;
+  background-color: #fff;
+  height: fit-content;
+  min-height: 90vh;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.buttonBox {
+  text-align: right;
+}
+
+.buttonBox > button {
+  padding: 0.5rem;
+  border-radius: 1rem;
+  border: none;
+  outline: none;
+  background-color: #e54065;
+  color: #fff;
+  cursor: pointer;
+  margin-left: 1rem;
+}
